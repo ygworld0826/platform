@@ -1,4 +1,10 @@
 {
+  "name": "platform",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "vercel-build": "echo 'No build step required'"
+  },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.23.0"
